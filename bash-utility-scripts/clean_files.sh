@@ -3,14 +3,14 @@
 find . -type f -name '._*'
 
 read -p "Delete these files? (y/n)" -n 1 answer
-if [ "$answer" == "y" ]; then
+if [[ "$answer" == "y" ]]; then
 	find . -type f -name '._*' -delete
 	echo
 	echo "files deleted"
 else
 	echo
-	echo 
-  	echo "moving on..."
+	echo
+  echo "moving on..."
 	echo
 fi
 
@@ -22,6 +22,6 @@ if [ "$answer" == "y" ]; then
 	echo
 	echo "files deleted"
 else
-        echo
+  echo
 	echo
 fi
