@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 import os
 import sys
 import time
@@ -27,7 +28,6 @@ def run_countdown(minutes):
 
         sys.stdout.write("\r" + remaining_time)
         sys.stdout.flush()
-        
     pause()
 
 def pause():

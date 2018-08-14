@@ -7,9 +7,9 @@ val = str(sys.argv[1])
 def show_hide_hidden_files(val):
 	os.system("defaults write com.apple.finder AppleShowAllFiles {}".format(val))
 
-	if val == 'TRUE':
+	if val in ('TRUE','true', 'True'):
 		print('Hidden files are now visible... killing finder')
-	elif val == 'FALSE':
+	elif val in ('FALSE', 'false', 'False'):
 		print('Hidden files are now hidden... killing finder')
 
 	os.system("killall Finder")
