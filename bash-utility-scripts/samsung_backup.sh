@@ -51,4 +51,4 @@ rsync -av Preferences /Volumes/SamsungT5/Dropbox/macbook_backup/Library/
 rsync -av Cookies /Volumes/SamsungT5/Dropbox/macbook_backup/Library/
 
 echo
-echo "update complete: desktop"
+echo "update complete: library"
