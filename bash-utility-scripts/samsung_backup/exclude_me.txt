@@ -1,0 +1,4 @@
+moodys-image-processing/.git/
+personal-utility-scripts/.git/
+personal-site/.git/
+personal-site/node_modules/
