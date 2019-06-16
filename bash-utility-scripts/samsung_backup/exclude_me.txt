@@ -1,4 +1,10 @@
 moodys-image-processing/.git/
 personal-utility-scripts/.git/
 personal-site/.git/
+network-graph-analysis/.git/
+network-graph-analysis/coria-hu-2018/.git/berlin-property-social-analysis/.git/quantlet-scraper/.git/
+DEDA-WS-2018/
+business-analytics/.git/customer-analytics/caci_git/.git/
 personal-site/node_modules/
+DEDA_WS_2018/.git/
+sh-backend/.git/
