@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "... syncing: data backups (app list, brew, pip3, zsh, iterm, atom)"
+echo "... syncing: data backups (app list, brew, pip3, zsh, ssh, iterm, atom)"
 echo
 
 # =========================
