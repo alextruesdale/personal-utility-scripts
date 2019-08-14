@@ -5,12 +5,12 @@ archive/network-graph-analysis/.git/
 archive/network-graph-analysis/coria-hu-2018/.git/archive/quantlet-scraper/.git/
 archive/datenbanksysteme/DBIS/.git/
 archive/bitcoin-sentiment/.git/
+archive/deep-learning/.git/
 
 berlin-locations-app/.git/
 berlin-property-social-analysis/.git/
 react-website/.git/
 react-website/node_modules/
-deep-learning/.git/
 marketing-modeling/.git
 marketing-modeling/.Rproj.user/
 mm_systementwurfs/Systementwurf/.git/
