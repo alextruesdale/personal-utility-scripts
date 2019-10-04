@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo "... syncing: data backups (app list, brew, pip3, zsh, ssh, iterm, atom)"
+echo "... syncing: data backups (app list, brew, pip3, zsh, iterm, atom)"
 echo
 
 # =========================
@@ -19,7 +19,8 @@ cd ../brew
 rm Brewfile
 brew bundle dump
 brew list > brew_installme.txt
-cat Brewfile >> Brewfile.txt
+brew cask list > brew_casks.txt
+cat Brewfile > Brewfile.txt
 
 # =========================
 #  zsh configuration data

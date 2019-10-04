@@ -6,14 +6,14 @@ archive/network-graph-analysis/coria-hu-2018/.git/archive/quantlet-scraper/.git
 archive/datenbanksysteme/DBIS/.git/
 archive/bitcoin-sentiment/.git/
 archive/deep-learning/.git/
+archive/marketing-modeling/.git
+archive/marketing-modeling/.Rproj.user/
+archive/mm_systementwurfs/Systementwurf/.git/
 
 berlin-locations-app/.git/
 berlin-property-social-analysis/.git/
 react-website/.git/
 react-website/node_modules/
-marketing-modeling/.git
-marketing-modeling/.Rproj.user/
-mm_systementwurfs/Systementwurf/.git/
 personal-site/.git/
 personal-site/node_modules/
 personal-utility-scripts/.git/
